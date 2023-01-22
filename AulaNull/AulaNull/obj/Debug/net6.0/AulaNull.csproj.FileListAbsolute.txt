@@ -1,0 +1,15 @@
+E:\work\ws-vs2022\AulaNull\AulaNull\bin\Debug\net6.0\AulaNull.exe
+E:\work\ws-vs2022\AulaNull\AulaNull\bin\Debug\net6.0\AulaNull.deps.json
+E:\work\ws-vs2022\AulaNull\AulaNull\bin\Debug\net6.0\AulaNull.runtimeconfig.json
+E:\work\ws-vs2022\AulaNull\AulaNull\bin\Debug\net6.0\AulaNull.dll
+E:\work\ws-vs2022\AulaNull\AulaNull\bin\Debug\net6.0\AulaNull.pdb
+E:\work\ws-vs2022\AulaNull\AulaNull\obj\Debug\net6.0\AulaNull.csproj.AssemblyReference.cache
+E:\work\ws-vs2022\AulaNull\AulaNull\obj\Debug\net6.0\AulaNull.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\ws-vs2022\AulaNull\AulaNull\obj\Debug\net6.0\AulaNull.AssemblyInfoInputs.cache
+E:\work\ws-vs2022\AulaNull\AulaNull\obj\Debug\net6.0\AulaNull.AssemblyInfo.cs
+E:\work\ws-vs2022\AulaNull\AulaNull\obj\Debug\net6.0\AulaNull.csproj.CoreCompileInputs.cache
+E:\work\ws-vs2022\AulaNull\AulaNull\obj\Debug\net6.0\AulaNull.dll
+E:\work\ws-vs2022\AulaNull\AulaNull\obj\Debug\net6.0\refint\AulaNull.dll
+E:\work\ws-vs2022\AulaNull\AulaNull\obj\Debug\net6.0\AulaNull.pdb
+E:\work\ws-vs2022\AulaNull\AulaNull\obj\Debug\net6.0\AulaNull.genruntimeconfig.cache
+E:\work\ws-vs2022\AulaNull\AulaNull\obj\Debug\net6.0\ref\AulaNull.dll

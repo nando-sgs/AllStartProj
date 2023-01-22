@@ -1,0 +1,15 @@
+E:\work\ws-vs2022\AulaModRedOut\AulaModRedOut\bin\Debug\net6.0\AulaModRedOut.exe
+E:\work\ws-vs2022\AulaModRedOut\AulaModRedOut\bin\Debug\net6.0\AulaModRedOut.deps.json
+E:\work\ws-vs2022\AulaModRedOut\AulaModRedOut\bin\Debug\net6.0\AulaModRedOut.runtimeconfig.json
+E:\work\ws-vs2022\AulaModRedOut\AulaModRedOut\bin\Debug\net6.0\AulaModRedOut.dll
+E:\work\ws-vs2022\AulaModRedOut\AulaModRedOut\bin\Debug\net6.0\AulaModRedOut.pdb
+E:\work\ws-vs2022\AulaModRedOut\AulaModRedOut\obj\Debug\net6.0\AulaModRedOut.csproj.AssemblyReference.cache
+E:\work\ws-vs2022\AulaModRedOut\AulaModRedOut\obj\Debug\net6.0\AulaModRedOut.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\ws-vs2022\AulaModRedOut\AulaModRedOut\obj\Debug\net6.0\AulaModRedOut.AssemblyInfoInputs.cache
+E:\work\ws-vs2022\AulaModRedOut\AulaModRedOut\obj\Debug\net6.0\AulaModRedOut.AssemblyInfo.cs
+E:\work\ws-vs2022\AulaModRedOut\AulaModRedOut\obj\Debug\net6.0\AulaModRedOut.csproj.CoreCompileInputs.cache
+E:\work\ws-vs2022\AulaModRedOut\AulaModRedOut\obj\Debug\net6.0\AulaModRedOut.dll
+E:\work\ws-vs2022\AulaModRedOut\AulaModRedOut\obj\Debug\net6.0\refint\AulaModRedOut.dll
+E:\work\ws-vs2022\AulaModRedOut\AulaModRedOut\obj\Debug\net6.0\AulaModRedOut.pdb
+E:\work\ws-vs2022\AulaModRedOut\AulaModRedOut\obj\Debug\net6.0\AulaModRedOut.genruntimeconfig.cache
+E:\work\ws-vs2022\AulaModRedOut\AulaModRedOut\obj\Debug\net6.0\ref\AulaModRedOut.dll

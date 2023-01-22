@@ -1,0 +1,15 @@
+E:\work\ws-vs2022\FuncStrings\FuncStrings\bin\Debug\net6.0\FuncStrings.exe
+E:\work\ws-vs2022\FuncStrings\FuncStrings\bin\Debug\net6.0\FuncStrings.deps.json
+E:\work\ws-vs2022\FuncStrings\FuncStrings\bin\Debug\net6.0\FuncStrings.runtimeconfig.json
+E:\work\ws-vs2022\FuncStrings\FuncStrings\bin\Debug\net6.0\FuncStrings.dll
+E:\work\ws-vs2022\FuncStrings\FuncStrings\bin\Debug\net6.0\FuncStrings.pdb
+E:\work\ws-vs2022\FuncStrings\FuncStrings\obj\Debug\net6.0\FuncStrings.csproj.AssemblyReference.cache
+E:\work\ws-vs2022\FuncStrings\FuncStrings\obj\Debug\net6.0\FuncStrings.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\ws-vs2022\FuncStrings\FuncStrings\obj\Debug\net6.0\FuncStrings.AssemblyInfoInputs.cache
+E:\work\ws-vs2022\FuncStrings\FuncStrings\obj\Debug\net6.0\FuncStrings.AssemblyInfo.cs
+E:\work\ws-vs2022\FuncStrings\FuncStrings\obj\Debug\net6.0\FuncStrings.csproj.CoreCompileInputs.cache
+E:\work\ws-vs2022\FuncStrings\FuncStrings\obj\Debug\net6.0\FuncStrings.dll
+E:\work\ws-vs2022\FuncStrings\FuncStrings\obj\Debug\net6.0\refint\FuncStrings.dll
+E:\work\ws-vs2022\FuncStrings\FuncStrings\obj\Debug\net6.0\FuncStrings.pdb
+E:\work\ws-vs2022\FuncStrings\FuncStrings\obj\Debug\net6.0\FuncStrings.genruntimeconfig.cache
+E:\work\ws-vs2022\FuncStrings\FuncStrings\obj\Debug\net6.0\ref\FuncStrings.dll

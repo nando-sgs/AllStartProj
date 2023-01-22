@@ -1,0 +1,15 @@
+E:\work\ws-vs2022\Exercicio24\Exercicio24\bin\Debug\net6.0\Exercicio24.exe
+E:\work\ws-vs2022\Exercicio24\Exercicio24\bin\Debug\net6.0\Exercicio24.deps.json
+E:\work\ws-vs2022\Exercicio24\Exercicio24\bin\Debug\net6.0\Exercicio24.runtimeconfig.json
+E:\work\ws-vs2022\Exercicio24\Exercicio24\bin\Debug\net6.0\Exercicio24.dll
+E:\work\ws-vs2022\Exercicio24\Exercicio24\bin\Debug\net6.0\Exercicio24.pdb
+E:\work\ws-vs2022\Exercicio24\Exercicio24\obj\Debug\net6.0\Exercicio24.csproj.AssemblyReference.cache
+E:\work\ws-vs2022\Exercicio24\Exercicio24\obj\Debug\net6.0\Exercicio24.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\ws-vs2022\Exercicio24\Exercicio24\obj\Debug\net6.0\Exercicio24.AssemblyInfoInputs.cache
+E:\work\ws-vs2022\Exercicio24\Exercicio24\obj\Debug\net6.0\Exercicio24.AssemblyInfo.cs
+E:\work\ws-vs2022\Exercicio24\Exercicio24\obj\Debug\net6.0\Exercicio24.csproj.CoreCompileInputs.cache
+E:\work\ws-vs2022\Exercicio24\Exercicio24\obj\Debug\net6.0\Exercicio24.dll
+E:\work\ws-vs2022\Exercicio24\Exercicio24\obj\Debug\net6.0\refint\Exercicio24.dll
+E:\work\ws-vs2022\Exercicio24\Exercicio24\obj\Debug\net6.0\Exercicio24.pdb
+E:\work\ws-vs2022\Exercicio24\Exercicio24\obj\Debug\net6.0\Exercicio24.genruntimeconfig.cache
+E:\work\ws-vs2022\Exercicio24\Exercicio24\obj\Debug\net6.0\ref\Exercicio24.dll

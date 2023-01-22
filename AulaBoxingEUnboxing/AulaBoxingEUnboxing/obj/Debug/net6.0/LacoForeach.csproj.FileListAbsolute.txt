@@ -1,0 +1,15 @@
+E:\work\ws-vs2022\AulaBoxingEUnboxing\AulaBoxingEUnboxing\bin\Debug\net6.0\LacoForeach.exe
+E:\work\ws-vs2022\AulaBoxingEUnboxing\AulaBoxingEUnboxing\bin\Debug\net6.0\LacoForeach.deps.json
+E:\work\ws-vs2022\AulaBoxingEUnboxing\AulaBoxingEUnboxing\bin\Debug\net6.0\LacoForeach.runtimeconfig.json
+E:\work\ws-vs2022\AulaBoxingEUnboxing\AulaBoxingEUnboxing\bin\Debug\net6.0\LacoForeach.dll
+E:\work\ws-vs2022\AulaBoxingEUnboxing\AulaBoxingEUnboxing\bin\Debug\net6.0\LacoForeach.pdb
+E:\work\ws-vs2022\AulaBoxingEUnboxing\AulaBoxingEUnboxing\obj\Debug\net6.0\LacoForeach.csproj.AssemblyReference.cache
+E:\work\ws-vs2022\AulaBoxingEUnboxing\AulaBoxingEUnboxing\obj\Debug\net6.0\LacoForeach.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\ws-vs2022\AulaBoxingEUnboxing\AulaBoxingEUnboxing\obj\Debug\net6.0\LacoForeach.AssemblyInfoInputs.cache
+E:\work\ws-vs2022\AulaBoxingEUnboxing\AulaBoxingEUnboxing\obj\Debug\net6.0\LacoForeach.AssemblyInfo.cs
+E:\work\ws-vs2022\AulaBoxingEUnboxing\AulaBoxingEUnboxing\obj\Debug\net6.0\LacoForeach.csproj.CoreCompileInputs.cache
+E:\work\ws-vs2022\AulaBoxingEUnboxing\AulaBoxingEUnboxing\obj\Debug\net6.0\LacoForeach.dll
+E:\work\ws-vs2022\AulaBoxingEUnboxing\AulaBoxingEUnboxing\obj\Debug\net6.0\refint\LacoForeach.dll
+E:\work\ws-vs2022\AulaBoxingEUnboxing\AulaBoxingEUnboxing\obj\Debug\net6.0\LacoForeach.pdb
+E:\work\ws-vs2022\AulaBoxingEUnboxing\AulaBoxingEUnboxing\obj\Debug\net6.0\LacoForeach.genruntimeconfig.cache
+E:\work\ws-vs2022\AulaBoxingEUnboxing\AulaBoxingEUnboxing\obj\Debug\net6.0\ref\LacoForeach.dll

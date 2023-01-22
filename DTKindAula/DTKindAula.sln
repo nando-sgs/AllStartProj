@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTKindAula", "DTKindAula\DTKindAula.csproj", "{351FEBDF-C421-4A32-BB98-CC16DE65D35D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{351FEBDF-C421-4A32-BB98-CC16DE65D35D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{351FEBDF-C421-4A32-BB98-CC16DE65D35D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{351FEBDF-C421-4A32-BB98-CC16DE65D35D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{351FEBDF-C421-4A32-BB98-CC16DE65D35D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCB48A0C-B2E9-43DC-A0EA-C18478C2D159}
+	EndGlobalSection
+EndGlobal

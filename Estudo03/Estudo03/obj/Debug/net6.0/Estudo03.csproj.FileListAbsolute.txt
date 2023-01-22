@@ -1,0 +1,15 @@
+E:\work\ws-vs2022\Estudo03\Estudo03\bin\Debug\net6.0\Estudo03.exe
+E:\work\ws-vs2022\Estudo03\Estudo03\bin\Debug\net6.0\Estudo03.deps.json
+E:\work\ws-vs2022\Estudo03\Estudo03\bin\Debug\net6.0\Estudo03.runtimeconfig.json
+E:\work\ws-vs2022\Estudo03\Estudo03\bin\Debug\net6.0\Estudo03.dll
+E:\work\ws-vs2022\Estudo03\Estudo03\bin\Debug\net6.0\Estudo03.pdb
+E:\work\ws-vs2022\Estudo03\Estudo03\obj\Debug\net6.0\Estudo03.csproj.AssemblyReference.cache
+E:\work\ws-vs2022\Estudo03\Estudo03\obj\Debug\net6.0\Estudo03.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\ws-vs2022\Estudo03\Estudo03\obj\Debug\net6.0\Estudo03.AssemblyInfoInputs.cache
+E:\work\ws-vs2022\Estudo03\Estudo03\obj\Debug\net6.0\Estudo03.AssemblyInfo.cs
+E:\work\ws-vs2022\Estudo03\Estudo03\obj\Debug\net6.0\Estudo03.csproj.CoreCompileInputs.cache
+E:\work\ws-vs2022\Estudo03\Estudo03\obj\Debug\net6.0\Estudo03.dll
+E:\work\ws-vs2022\Estudo03\Estudo03\obj\Debug\net6.0\refint\Estudo03.dll
+E:\work\ws-vs2022\Estudo03\Estudo03\obj\Debug\net6.0\Estudo03.pdb
+E:\work\ws-vs2022\Estudo03\Estudo03\obj\Debug\net6.0\Estudo03.genruntimeconfig.cache
+E:\work\ws-vs2022\Estudo03\Estudo03\obj\Debug\net6.0\ref\Estudo03.dll

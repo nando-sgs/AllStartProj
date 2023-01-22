@@ -1,0 +1,15 @@
+E:\work\ws-vs2022\AulaTimeSpan\AulaTimeSpan\bin\Debug\net6.0\AulaTimeSpan.exe
+E:\work\ws-vs2022\AulaTimeSpan\AulaTimeSpan\bin\Debug\net6.0\AulaTimeSpan.deps.json
+E:\work\ws-vs2022\AulaTimeSpan\AulaTimeSpan\bin\Debug\net6.0\AulaTimeSpan.runtimeconfig.json
+E:\work\ws-vs2022\AulaTimeSpan\AulaTimeSpan\bin\Debug\net6.0\AulaTimeSpan.dll
+E:\work\ws-vs2022\AulaTimeSpan\AulaTimeSpan\bin\Debug\net6.0\AulaTimeSpan.pdb
+E:\work\ws-vs2022\AulaTimeSpan\AulaTimeSpan\obj\Debug\net6.0\AulaTimeSpan.csproj.AssemblyReference.cache
+E:\work\ws-vs2022\AulaTimeSpan\AulaTimeSpan\obj\Debug\net6.0\AulaTimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\ws-vs2022\AulaTimeSpan\AulaTimeSpan\obj\Debug\net6.0\AulaTimeSpan.AssemblyInfoInputs.cache
+E:\work\ws-vs2022\AulaTimeSpan\AulaTimeSpan\obj\Debug\net6.0\AulaTimeSpan.AssemblyInfo.cs
+E:\work\ws-vs2022\AulaTimeSpan\AulaTimeSpan\obj\Debug\net6.0\AulaTimeSpan.csproj.CoreCompileInputs.cache
+E:\work\ws-vs2022\AulaTimeSpan\AulaTimeSpan\obj\Debug\net6.0\AulaTimeSpan.dll
+E:\work\ws-vs2022\AulaTimeSpan\AulaTimeSpan\obj\Debug\net6.0\refint\AulaTimeSpan.dll
+E:\work\ws-vs2022\AulaTimeSpan\AulaTimeSpan\obj\Debug\net6.0\AulaTimeSpan.pdb
+E:\work\ws-vs2022\AulaTimeSpan\AulaTimeSpan\obj\Debug\net6.0\AulaTimeSpan.genruntimeconfig.cache
+E:\work\ws-vs2022\AulaTimeSpan\AulaTimeSpan\obj\Debug\net6.0\ref\AulaTimeSpan.dll

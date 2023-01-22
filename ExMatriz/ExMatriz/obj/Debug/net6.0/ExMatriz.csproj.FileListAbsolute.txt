@@ -1,0 +1,15 @@
+E:\work\ws-vs2022\ExMatriz\ExMatriz\bin\Debug\net6.0\ExMatriz.exe
+E:\work\ws-vs2022\ExMatriz\ExMatriz\bin\Debug\net6.0\ExMatriz.deps.json
+E:\work\ws-vs2022\ExMatriz\ExMatriz\bin\Debug\net6.0\ExMatriz.runtimeconfig.json
+E:\work\ws-vs2022\ExMatriz\ExMatriz\bin\Debug\net6.0\ExMatriz.dll
+E:\work\ws-vs2022\ExMatriz\ExMatriz\bin\Debug\net6.0\ExMatriz.pdb
+E:\work\ws-vs2022\ExMatriz\ExMatriz\obj\Debug\net6.0\ExMatriz.csproj.AssemblyReference.cache
+E:\work\ws-vs2022\ExMatriz\ExMatriz\obj\Debug\net6.0\ExMatriz.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\ws-vs2022\ExMatriz\ExMatriz\obj\Debug\net6.0\ExMatriz.AssemblyInfoInputs.cache
+E:\work\ws-vs2022\ExMatriz\ExMatriz\obj\Debug\net6.0\ExMatriz.AssemblyInfo.cs
+E:\work\ws-vs2022\ExMatriz\ExMatriz\obj\Debug\net6.0\ExMatriz.csproj.CoreCompileInputs.cache
+E:\work\ws-vs2022\ExMatriz\ExMatriz\obj\Debug\net6.0\ExMatriz.dll
+E:\work\ws-vs2022\ExMatriz\ExMatriz\obj\Debug\net6.0\refint\ExMatriz.dll
+E:\work\ws-vs2022\ExMatriz\ExMatriz\obj\Debug\net6.0\ExMatriz.pdb
+E:\work\ws-vs2022\ExMatriz\ExMatriz\obj\Debug\net6.0\ExMatriz.genruntimeconfig.cache
+E:\work\ws-vs2022\ExMatriz\ExMatriz\obj\Debug\net6.0\ref\ExMatriz.dll

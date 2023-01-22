@@ -1,0 +1,15 @@
+E:\work\ws-vs2022\AulaMatriz\AulaMatriz\bin\Debug\net6.0\AulaMatriz.exe
+E:\work\ws-vs2022\AulaMatriz\AulaMatriz\bin\Debug\net6.0\AulaMatriz.deps.json
+E:\work\ws-vs2022\AulaMatriz\AulaMatriz\bin\Debug\net6.0\AulaMatriz.runtimeconfig.json
+E:\work\ws-vs2022\AulaMatriz\AulaMatriz\bin\Debug\net6.0\AulaMatriz.dll
+E:\work\ws-vs2022\AulaMatriz\AulaMatriz\bin\Debug\net6.0\AulaMatriz.pdb
+E:\work\ws-vs2022\AulaMatriz\AulaMatriz\obj\Debug\net6.0\AulaMatriz.csproj.AssemblyReference.cache
+E:\work\ws-vs2022\AulaMatriz\AulaMatriz\obj\Debug\net6.0\AulaMatriz.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\ws-vs2022\AulaMatriz\AulaMatriz\obj\Debug\net6.0\AulaMatriz.AssemblyInfoInputs.cache
+E:\work\ws-vs2022\AulaMatriz\AulaMatriz\obj\Debug\net6.0\AulaMatriz.AssemblyInfo.cs
+E:\work\ws-vs2022\AulaMatriz\AulaMatriz\obj\Debug\net6.0\AulaMatriz.csproj.CoreCompileInputs.cache
+E:\work\ws-vs2022\AulaMatriz\AulaMatriz\obj\Debug\net6.0\AulaMatriz.dll
+E:\work\ws-vs2022\AulaMatriz\AulaMatriz\obj\Debug\net6.0\refint\AulaMatriz.dll
+E:\work\ws-vs2022\AulaMatriz\AulaMatriz\obj\Debug\net6.0\AulaMatriz.pdb
+E:\work\ws-vs2022\AulaMatriz\AulaMatriz\obj\Debug\net6.0\AulaMatriz.genruntimeconfig.cache
+E:\work\ws-vs2022\AulaMatriz\AulaMatriz\obj\Debug\net6.0\ref\AulaMatriz.dll

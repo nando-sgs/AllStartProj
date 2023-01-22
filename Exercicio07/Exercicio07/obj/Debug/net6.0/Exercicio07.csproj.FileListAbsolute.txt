@@ -1,0 +1,15 @@
+E:\work\ws-vs2022\Exercicio07\Exercicio07\bin\Debug\net6.0\Exercicio07.exe
+E:\work\ws-vs2022\Exercicio07\Exercicio07\bin\Debug\net6.0\Exercicio07.deps.json
+E:\work\ws-vs2022\Exercicio07\Exercicio07\bin\Debug\net6.0\Exercicio07.runtimeconfig.json
+E:\work\ws-vs2022\Exercicio07\Exercicio07\bin\Debug\net6.0\Exercicio07.dll
+E:\work\ws-vs2022\Exercicio07\Exercicio07\bin\Debug\net6.0\Exercicio07.pdb
+E:\work\ws-vs2022\Exercicio07\Exercicio07\obj\Debug\net6.0\Exercicio07.csproj.AssemblyReference.cache
+E:\work\ws-vs2022\Exercicio07\Exercicio07\obj\Debug\net6.0\Exercicio07.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\ws-vs2022\Exercicio07\Exercicio07\obj\Debug\net6.0\Exercicio07.AssemblyInfoInputs.cache
+E:\work\ws-vs2022\Exercicio07\Exercicio07\obj\Debug\net6.0\Exercicio07.AssemblyInfo.cs
+E:\work\ws-vs2022\Exercicio07\Exercicio07\obj\Debug\net6.0\Exercicio07.csproj.CoreCompileInputs.cache
+E:\work\ws-vs2022\Exercicio07\Exercicio07\obj\Debug\net6.0\Exercicio07.dll
+E:\work\ws-vs2022\Exercicio07\Exercicio07\obj\Debug\net6.0\refint\Exercicio07.dll
+E:\work\ws-vs2022\Exercicio07\Exercicio07\obj\Debug\net6.0\Exercicio07.pdb
+E:\work\ws-vs2022\Exercicio07\Exercicio07\obj\Debug\net6.0\Exercicio07.genruntimeconfig.cache
+E:\work\ws-vs2022\Exercicio07\Exercicio07\obj\Debug\net6.0\ref\Exercicio07.dll

@@ -1,0 +1,15 @@
+E:\work\ws-vs2022\DTKindAula\DTKindAula\bin\Debug\net6.0\DTKindAula.exe
+E:\work\ws-vs2022\DTKindAula\DTKindAula\bin\Debug\net6.0\DTKindAula.deps.json
+E:\work\ws-vs2022\DTKindAula\DTKindAula\bin\Debug\net6.0\DTKindAula.runtimeconfig.json
+E:\work\ws-vs2022\DTKindAula\DTKindAula\bin\Debug\net6.0\DTKindAula.dll
+E:\work\ws-vs2022\DTKindAula\DTKindAula\bin\Debug\net6.0\DTKindAula.pdb
+E:\work\ws-vs2022\DTKindAula\DTKindAula\obj\Debug\net6.0\DTKindAula.csproj.AssemblyReference.cache
+E:\work\ws-vs2022\DTKindAula\DTKindAula\obj\Debug\net6.0\DTKindAula.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\ws-vs2022\DTKindAula\DTKindAula\obj\Debug\net6.0\DTKindAula.AssemblyInfoInputs.cache
+E:\work\ws-vs2022\DTKindAula\DTKindAula\obj\Debug\net6.0\DTKindAula.AssemblyInfo.cs
+E:\work\ws-vs2022\DTKindAula\DTKindAula\obj\Debug\net6.0\DTKindAula.csproj.CoreCompileInputs.cache
+E:\work\ws-vs2022\DTKindAula\DTKindAula\obj\Debug\net6.0\DTKindAula.dll
+E:\work\ws-vs2022\DTKindAula\DTKindAula\obj\Debug\net6.0\refint\DTKindAula.dll
+E:\work\ws-vs2022\DTKindAula\DTKindAula\obj\Debug\net6.0\DTKindAula.pdb
+E:\work\ws-vs2022\DTKindAula\DTKindAula\obj\Debug\net6.0\DTKindAula.genruntimeconfig.cache
+E:\work\ws-vs2022\DTKindAula\DTKindAula\obj\Debug\net6.0\ref\DTKindAula.dll

@@ -1,0 +1,15 @@
+E:\work\ws-vs2022\AulaECTernaria\AulaECTernaria\obj\Debug\net6.0\AulaECTernaria.csproj.AssemblyReference.cache
+E:\work\ws-vs2022\AulaECTernaria\AulaECTernaria\obj\Debug\net6.0\AulaECTernaria.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\ws-vs2022\AulaECTernaria\AulaECTernaria\obj\Debug\net6.0\AulaECTernaria.AssemblyInfoInputs.cache
+E:\work\ws-vs2022\AulaECTernaria\AulaECTernaria\obj\Debug\net6.0\AulaECTernaria.AssemblyInfo.cs
+E:\work\ws-vs2022\AulaECTernaria\AulaECTernaria\obj\Debug\net6.0\AulaECTernaria.csproj.CoreCompileInputs.cache
+E:\work\ws-vs2022\AulaECTernaria\AulaECTernaria\bin\Debug\net6.0\AulaECTernaria.exe
+E:\work\ws-vs2022\AulaECTernaria\AulaECTernaria\bin\Debug\net6.0\AulaECTernaria.deps.json
+E:\work\ws-vs2022\AulaECTernaria\AulaECTernaria\bin\Debug\net6.0\AulaECTernaria.runtimeconfig.json
+E:\work\ws-vs2022\AulaECTernaria\AulaECTernaria\bin\Debug\net6.0\AulaECTernaria.dll
+E:\work\ws-vs2022\AulaECTernaria\AulaECTernaria\bin\Debug\net6.0\AulaECTernaria.pdb
+E:\work\ws-vs2022\AulaECTernaria\AulaECTernaria\obj\Debug\net6.0\AulaECTernaria.dll
+E:\work\ws-vs2022\AulaECTernaria\AulaECTernaria\obj\Debug\net6.0\refint\AulaECTernaria.dll
+E:\work\ws-vs2022\AulaECTernaria\AulaECTernaria\obj\Debug\net6.0\AulaECTernaria.pdb
+E:\work\ws-vs2022\AulaECTernaria\AulaECTernaria\obj\Debug\net6.0\AulaECTernaria.genruntimeconfig.cache
+E:\work\ws-vs2022\AulaECTernaria\AulaECTernaria\obj\Debug\net6.0\ref\AulaECTernaria.dll

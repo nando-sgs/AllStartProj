@@ -1,0 +1,15 @@
+E:\work\ws-vs2022\AulaVetores\AulaVetores\bin\Debug\net6.0\AulaVetores.exe
+E:\work\ws-vs2022\AulaVetores\AulaVetores\bin\Debug\net6.0\AulaVetores.deps.json
+E:\work\ws-vs2022\AulaVetores\AulaVetores\bin\Debug\net6.0\AulaVetores.runtimeconfig.json
+E:\work\ws-vs2022\AulaVetores\AulaVetores\bin\Debug\net6.0\AulaVetores.dll
+E:\work\ws-vs2022\AulaVetores\AulaVetores\bin\Debug\net6.0\AulaVetores.pdb
+E:\work\ws-vs2022\AulaVetores\AulaVetores\obj\Debug\net6.0\AulaVetores.csproj.AssemblyReference.cache
+E:\work\ws-vs2022\AulaVetores\AulaVetores\obj\Debug\net6.0\AulaVetores.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\ws-vs2022\AulaVetores\AulaVetores\obj\Debug\net6.0\AulaVetores.AssemblyInfoInputs.cache
+E:\work\ws-vs2022\AulaVetores\AulaVetores\obj\Debug\net6.0\AulaVetores.AssemblyInfo.cs
+E:\work\ws-vs2022\AulaVetores\AulaVetores\obj\Debug\net6.0\AulaVetores.csproj.CoreCompileInputs.cache
+E:\work\ws-vs2022\AulaVetores\AulaVetores\obj\Debug\net6.0\AulaVetores.dll
+E:\work\ws-vs2022\AulaVetores\AulaVetores\obj\Debug\net6.0\refint\AulaVetores.dll
+E:\work\ws-vs2022\AulaVetores\AulaVetores\obj\Debug\net6.0\AulaVetores.pdb
+E:\work\ws-vs2022\AulaVetores\AulaVetores\obj\Debug\net6.0\AulaVetores.genruntimeconfig.cache
+E:\work\ws-vs2022\AulaVetores\AulaVetores\obj\Debug\net6.0\ref\AulaVetores.dll

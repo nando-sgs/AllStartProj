@@ -1,0 +1,15 @@
+E:\work\ws-vs2022\AulaTSProp\AulaTSProp\bin\Debug\net6.0\AulaTSProp.exe
+E:\work\ws-vs2022\AulaTSProp\AulaTSProp\bin\Debug\net6.0\AulaTSProp.deps.json
+E:\work\ws-vs2022\AulaTSProp\AulaTSProp\bin\Debug\net6.0\AulaTSProp.runtimeconfig.json
+E:\work\ws-vs2022\AulaTSProp\AulaTSProp\bin\Debug\net6.0\AulaTSProp.dll
+E:\work\ws-vs2022\AulaTSProp\AulaTSProp\bin\Debug\net6.0\AulaTSProp.pdb
+E:\work\ws-vs2022\AulaTSProp\AulaTSProp\obj\Debug\net6.0\AulaTSProp.csproj.AssemblyReference.cache
+E:\work\ws-vs2022\AulaTSProp\AulaTSProp\obj\Debug\net6.0\AulaTSProp.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\ws-vs2022\AulaTSProp\AulaTSProp\obj\Debug\net6.0\AulaTSProp.AssemblyInfoInputs.cache
+E:\work\ws-vs2022\AulaTSProp\AulaTSProp\obj\Debug\net6.0\AulaTSProp.AssemblyInfo.cs
+E:\work\ws-vs2022\AulaTSProp\AulaTSProp\obj\Debug\net6.0\AulaTSProp.csproj.CoreCompileInputs.cache
+E:\work\ws-vs2022\AulaTSProp\AulaTSProp\obj\Debug\net6.0\AulaTSProp.dll
+E:\work\ws-vs2022\AulaTSProp\AulaTSProp\obj\Debug\net6.0\refint\AulaTSProp.dll
+E:\work\ws-vs2022\AulaTSProp\AulaTSProp\obj\Debug\net6.0\AulaTSProp.pdb
+E:\work\ws-vs2022\AulaTSProp\AulaTSProp\obj\Debug\net6.0\AulaTSProp.genruntimeconfig.cache
+E:\work\ws-vs2022\AulaTSProp\AulaTSProp\obj\Debug\net6.0\ref\AulaTSProp.dll

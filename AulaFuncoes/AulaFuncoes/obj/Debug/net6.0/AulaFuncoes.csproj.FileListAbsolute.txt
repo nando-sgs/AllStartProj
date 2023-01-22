@@ -1,0 +1,15 @@
+E:\work\ws-vs2022\AulaFuncoes\AulaFuncoes\bin\Debug\net6.0\AulaFuncoes.exe
+E:\work\ws-vs2022\AulaFuncoes\AulaFuncoes\bin\Debug\net6.0\AulaFuncoes.deps.json
+E:\work\ws-vs2022\AulaFuncoes\AulaFuncoes\bin\Debug\net6.0\AulaFuncoes.runtimeconfig.json
+E:\work\ws-vs2022\AulaFuncoes\AulaFuncoes\bin\Debug\net6.0\AulaFuncoes.dll
+E:\work\ws-vs2022\AulaFuncoes\AulaFuncoes\bin\Debug\net6.0\AulaFuncoes.pdb
+E:\work\ws-vs2022\AulaFuncoes\AulaFuncoes\obj\Debug\net6.0\AulaFuncoes.csproj.AssemblyReference.cache
+E:\work\ws-vs2022\AulaFuncoes\AulaFuncoes\obj\Debug\net6.0\AulaFuncoes.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\ws-vs2022\AulaFuncoes\AulaFuncoes\obj\Debug\net6.0\AulaFuncoes.AssemblyInfoInputs.cache
+E:\work\ws-vs2022\AulaFuncoes\AulaFuncoes\obj\Debug\net6.0\AulaFuncoes.AssemblyInfo.cs
+E:\work\ws-vs2022\AulaFuncoes\AulaFuncoes\obj\Debug\net6.0\AulaFuncoes.csproj.CoreCompileInputs.cache
+E:\work\ws-vs2022\AulaFuncoes\AulaFuncoes\obj\Debug\net6.0\AulaFuncoes.dll
+E:\work\ws-vs2022\AulaFuncoes\AulaFuncoes\obj\Debug\net6.0\refint\AulaFuncoes.dll
+E:\work\ws-vs2022\AulaFuncoes\AulaFuncoes\obj\Debug\net6.0\AulaFuncoes.pdb
+E:\work\ws-vs2022\AulaFuncoes\AulaFuncoes\obj\Debug\net6.0\AulaFuncoes.genruntimeconfig.cache
+E:\work\ws-vs2022\AulaFuncoes\AulaFuncoes\obj\Debug\net6.0\ref\AulaFuncoes.dll

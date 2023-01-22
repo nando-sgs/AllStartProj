@@ -1,0 +1,15 @@
+E:\work\ws-vs2022\AulaDateTime\AulaDateTime\bin\Debug\net6.0\AulaDateTime.exe
+E:\work\ws-vs2022\AulaDateTime\AulaDateTime\bin\Debug\net6.0\AulaDateTime.deps.json
+E:\work\ws-vs2022\AulaDateTime\AulaDateTime\bin\Debug\net6.0\AulaDateTime.runtimeconfig.json
+E:\work\ws-vs2022\AulaDateTime\AulaDateTime\bin\Debug\net6.0\AulaDateTime.dll
+E:\work\ws-vs2022\AulaDateTime\AulaDateTime\bin\Debug\net6.0\AulaDateTime.pdb
+E:\work\ws-vs2022\AulaDateTime\AulaDateTime\obj\Debug\net6.0\AulaDateTime.csproj.AssemblyReference.cache
+E:\work\ws-vs2022\AulaDateTime\AulaDateTime\obj\Debug\net6.0\AulaDateTime.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\ws-vs2022\AulaDateTime\AulaDateTime\obj\Debug\net6.0\AulaDateTime.AssemblyInfoInputs.cache
+E:\work\ws-vs2022\AulaDateTime\AulaDateTime\obj\Debug\net6.0\AulaDateTime.AssemblyInfo.cs
+E:\work\ws-vs2022\AulaDateTime\AulaDateTime\obj\Debug\net6.0\AulaDateTime.csproj.CoreCompileInputs.cache
+E:\work\ws-vs2022\AulaDateTime\AulaDateTime\obj\Debug\net6.0\AulaDateTime.dll
+E:\work\ws-vs2022\AulaDateTime\AulaDateTime\obj\Debug\net6.0\refint\AulaDateTime.dll
+E:\work\ws-vs2022\AulaDateTime\AulaDateTime\obj\Debug\net6.0\AulaDateTime.pdb
+E:\work\ws-vs2022\AulaDateTime\AulaDateTime\obj\Debug\net6.0\AulaDateTime.genruntimeconfig.cache
+E:\work\ws-vs2022\AulaDateTime\AulaDateTime\obj\Debug\net6.0\ref\AulaDateTime.dll
