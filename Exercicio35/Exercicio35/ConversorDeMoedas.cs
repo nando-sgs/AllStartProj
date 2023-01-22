@@ -8,7 +8,11 @@ namespace Exercicio35
         
         public double Converter()
         {
-            return ((6 * Conversao / 100) + Conversao) * Cotacao;
+            return ((5.38 * Conversao / 100) + Conversao) * Cotacao;
+        }
+        public double Converter2() 
+        {
+            return ((1.1 * Conversao / 100) + Conversao) * Cotacao;
         }
         public override string ToString()
         {
